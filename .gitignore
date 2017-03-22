@@ -1,0 +1,9 @@
+/.idea
+/build
+/dev
+/phpdoc
+/vendor
+coverage.clover
+composer.lock
+
+

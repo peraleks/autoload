@@ -1,0 +1,20 @@
+{
+    "name": "peraleks/autoload",
+    "type": "library",
+    "description": "PSR-4 class loader.",
+    "keywords": ["peraleks", "autoload", "class-loader", "psr4", "php", "php7"
+    ],
+    "homepage": "https://github.com/peraleks/autoload",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksey Perevoshchikov",
+            "email": "aleksey.perevoshchikov.n@gmail.com",
+            "homepage": "https://github.com/peraleks",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : "^7.0"
+    }
+}
