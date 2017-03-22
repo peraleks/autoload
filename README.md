@@ -8,7 +8,7 @@ PSR-4 загрузчик классов для PHP7.
 ```bash
 $ composer require peraleks/autoload
 ```
-Или скачайте ZIP.
+Или скачайте [ZIP][link-zip].
 
 ## Использование
 Например структура папок вашего приложения такая:
@@ -36,7 +36,7 @@ $loader->add('Symfony\Component\VarDumper', '/vendor/symfony/var-dumper');
 
 The MIT License ([MIT](LICENSE.md)).
 
-[link-zip]: https://github.com/peraleks/autoload/archive/master.zip
+[link-zip]: https://github.com/peraleks/autoload/releases
 [link-wiki]: https://github.com/peraleks/autoload/wiki
 [link-author]: https://github.com/peraleks
 
